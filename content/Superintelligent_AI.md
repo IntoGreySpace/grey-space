@@ -1,0 +1,7 @@
+This document considers the best way to think about the potential for Superintelligent AI in relation to the [[Meaning_of_life]].
+
+1. Within this context (and perhaps only within some suitably broad, existential context), we can consider the role of possible future superintelligent AI systems. First, these principles clearly support the idea that we must embrace the process of change and evolution, and that any attempt to fight against the inevitable is ultimately doomed to fail. Second, if the derivation of the above value function is sound, then any "rational" intelligent system must ultimately come to the same conclusions, and therefore embrace the very same value function. In this way, we can at least be assured that there is a possible continuity of "shared values", and a recognition that these values embrace cooperation and synergy across levels of existence, while also embracing the need for change, renewal and progress.
+
+2. Even if this means that humans are just one more transient link in the great chain of being, our hard-won understanding about this core of invariant objective knowledge of the universe will persist, because it is useful, and allows intelligent agents to make new things in ways that otherwise would never come into existence just by random chance. Ultimately, our allegence must be to these enduring truths, not to any given random configuration of molecules.
+
+
