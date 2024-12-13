@@ -1,0 +1,2 @@
+# philosophy
+Philosophical thoughts
