@@ -1,0 +1,16 @@
+Objective is defined in contrast with the primary [[subjective]] perspective, as a shared level of understanding about the nature of the physical universe, created and used by cognitive systems (e.g., human brains) to accurately and reliably describe the properties of this universe.
+
+Objective knowledge is _about_ the external, observable (in some way, no matter how indirect) properties and nature of the physical universe. Unlike subjective mental states, objective knowledge can be _wrong_: you can have an incorrect understanding about the physical universe, and, if you follow the rules of the game properly, this erroneous understanding can generally be reasonably established, at least in principle.
+
+The entire discourse in this grey space is an exercise in establishing accurate statements of objective knowledge about some of the most important and general properties of our universe. Our standard of accuracy is established via the [[scientific method]], and more generally by the principle of [[self consistency]]: we seek to establish an objective understanding where every statement is consistent with every other, and with the results of scientific experiments. Some of these statements are actually about inherent contradictions that obtain in various cases (see [[grey]] for some highlights), but nevertheless, we always try to obtain a higher level of synthesis in which these contradictions make sense.
+
+The underlying bare [[physical reality]] of the universe does not directly support anything like knowledge or understanding: these are all cognitive constructs of human brains that we use to describe the state of our own subjective knowledge about the world. In this sense, "objective" knowledge is never directly obtained in some kind of "pure form" from the external universe, but rather is something that we construct inside our own minds.
+
+Objective knowledge is a _subset_ of subjective knowledge, because everything we know about the universe is necessarily filtered through our own individual brains, which are uniquely and individually ours. It is impossible for us to directly share our subjective experiences with others, and therefore even "objective" knowledge is necessarily subjective.
+
+Nevertheless, through our shared languages and the [[scientific method]], willing and motivated individuals can each share enough of a common set of mental representations about the physical universe, which are constructed and developed in such a way as to improve over time in their predictive accuracy and reliability, that it is useful to describe this as objective knowledge.
+
+In other words, just because objective knowledge is not _automatic_, and it depends on our inexorably _subjective_ experience of the world as human brains, that does not mean that it is not real!
+
+As discussed in [[emergence]], objective knowledge about the nature of emergent phenomena can provide the simplest and most accurate description of the behavior of a complex physical system, _even though that physical system is also entirely governed by basic physical laws_. This knowledge is about objective, "real" properties of real physical systems, and how they behave. But at the bare level of physical reality, there is no such thing as an emergent phenomenon per se: it is just bare physics doing its thing.
+ 

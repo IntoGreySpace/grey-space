@@ -1,0 +1,78 @@
+Emergence is perhaps the single most important phenomenon for understanding thorny and longstanding philosophical puzzles, including [[consciousness]] and [[free will]]. It is _not_ magic, but it nevertheless _seems_ like it.
+
+![The principle of _emergence_, simply illustrated.  The gears on the left do not interact, and nothing interesting happens.  However, on the right, the interaction between the gears produces interesting, useful phenomena that _cannot_ be reduced to the individual gears _separately_.  For example, the little gear will spin faster, but the larger one will have higher torque at its axel: these properties would be entirely different if either gear interacted with a different sized gear. Furthermore, the material that the gear is made from really doesn't matter very much: the same basic behavior would be produced by plastic, metal, wood, etc. Thus, even in this simple case, there is something just slightly magical and irreducible going on --- when two gears get together, something emerges that is more than the sum of the parts, and exists in a way independent of the parts, even while being entirely dependent on actually _having_ those parts to make it happen.](media/fig-gears.png){#fig:fig-gears width=75% }
+
+Emergence can be illustrated in a very simple physical system, two interacting gears, as shown in [@fig:fig-gears]. It is not mysterious or magical. On the other hand, it really is. You can make the gears out of any kind of sufficiently hard material, and they will still work. There might be subtle factors like friction and durability that vary. But over a wide range, it doesn't matter what the gears are made from. Thus, there is a level of _transcendence_ that occurs with emergence, where the behavior of the more complex interacting system does not depend on many of the detailed properties of the lower level parts. In effect, the interaction itself is what matters, and the parts are mere place holders. Of course, they have to be there, and meet some basic criteria, but they are nevertheless replaceable.
+
+The following properties are of greatest importance:
+
+* For any _specific_ individual physical system, there is a direct _one-to-one mapping_ ([[supervenience]]) between the [[physical reality]] of the underlying substrate and all the emergent phenomena that arise from it. There is fundamentally nothing magic or non-physical about emergence, and this distinguishes the so-called "weak" form of emergence that we are talking about, from a truly magical "strong" form that would violate this property [@Bedau97].
+
+* However, emergent phenomena have a _many-to-one mapping_ between the physical substrate and an emergent phenomenon, such that the same emergent phenomenon can be realized with _different_ physical substrates (e.g., the different materials that gears can be made from). We can call this **substrate invariance** (or _multiple realizability_ in the [[functionalism]] literature), and it provides a [formal definition](#formal definition) for emergence, that can carry a lot of weight in further reasoning about it, as we develop below.
+
+* Furthermore, this many-to-one mapping holds _within the same physical system_ over time: one could progressively swap out all of the physical components of the system over time, and if rebuilt to support the same higher-level interactions upon which the emergent phenomena depend, these emergent level phenomena would persist. This is the famous [[Ship of Theseus]] thought experiment, and it is much more of a reality than you might otherwise appreciate. All of the cellular components in your own body are constantly being rebuilt on the time scale of days [@RolfsFreyShiEtAl21]. Therefore, your continued stable existence as a complex emergent phenomenon, including the ability to access remote memories and everything you've learned over your lifetime, depends on this many-to-one mapping of emergent phenomenon, because your physical substrate is in constant flux.
+
+One critical consequence of this invariant, many-to-one nature of emergent properties is that it enables one to instantiate emergent phenomena _virtually_ inside a digital computer, by running simulations with equations that capture the essential interactions necessary to support the phenomenon in question. Uncontroverisally, such simulations are used to simulate emergent phenomena in atmospheric weather dynamics, to generate increasingly accurate weather predictions. Likewise, emergent dynamics in physical systems including waves, spin glasses, fluid and gas dynamics, and all manner of real-world engineering problems are routinely simulated on computers.
+
+Of closest relevance to the focus of this overall discourse, computers can simulate the emergent phenomena of the brain, by capturing the essential interactions between neurons, and thereby help us understand all of the relevant phenomena of the mind, including [[consciousness]]. Thus, by the very definition of emergence, it should in principle be possible to capture all of the essential properties of the human mind in a computer simulation.
+
+## Formal definition
+
+[@Bedau97] postulates that emergent phenomena can be formally defined by virtue of only being derivable from the underlying substrate through a process of simulation.
+
+This is too weak and indirect of a definition in my opinion. A much simpler and stronger definition, given above, is that there is a **many-to-one mapping** between physical substrate and emergent phenomena, such that _some significant class_ of specific details about the nature of the substrate are _irrelevant_ for the emergent phenomenon: i.e., it is _invariant_ over that set of details. We can call this the **substrate invariance** property of emergent phenomena.
+
+In the gears example, all that matters is that the physical substrate exhibit a sufficient degree of physical rigidity, such that forces acting on the teeth are properly transmitted to the axle, and the gear retains its overall shape.
+
+Furthermore, we can provide a positive definition of the properties that _are_ critical for the function of the gears as an emergent phenomenon, at a level that is independent of a specific physical substrate. Namely, it is the _shape_ of the gears that matters, specifically with respect to the ability of the teeth to properly enmesh with each other, the circular overall shape of the gear, the relative sizes of the two gears, and the specific positioning of the two gears such that the teeth properly engage, etc. Emergent properties tend to involve relationships and configurations of elements within a physical system, as in this example.
+
+In simple such systems with well-defined properties, it is clear that we can define a strong _equivalence class_ of a two-gear system, such that any realization of such a system that has specific values of these properties should behave in the same manner.
+
+One might argue that there are still residual low-level details about the behavior of the system that will depend on the underlying physical substrate, e.g., the rate of wear, degree of friction, or effects of thermal expansion (all of which may be important for real-world applications, especially for example in accurate gear-based clocks). Nevertheless, one can still reasonably define equivalence classes for such properties (and increase the realism of a digital simulation to include them), so the principle of substrate invariance remains intact, as long as the phenomenon in question doesn't become identically synonymous with one specific clump of matter.
+
+## Subjectiveness
+
+One concern about emergent phenomena is that they are fundamentally [[subjective]] in nature, dependent on the conceptual space of a cognitive observer, rather than objectively real properties of a physical system.
+
+This view can be justified by the [[supervenience]] perspective with respect to _a single instantiation_ of a physical system: such a system could plausibly be described at the lowest possible level of [[physical reality]], and the strong one-to-one mapping across all levels for a single such system admits to no "metaphysical gaps": it is all just physics in the end.
+
+However, once you consider _multiple_ physical systems, or the stable behavior of a given physical system over time despite significant changes in its underlying substrate, the substrate invariance property becomes manifest.
+
+Nevertheless, the very ability to compare across two physical systems, or across one system at different points in time, is only available to cognitive observers, as we discuss in the page on [[physical reality]]. In the "bare reality" of the physical systems themselves, there is no emergence, no comparisons, only physics.
+
+Thus, it seems difficult to escape the conclusion that emergence is in fact a cognitive construct that we use to provide a simpler, more compact explanation of a _class_ of physical systems, according to these substrate invariances.
+
+Despite this conclusion, it is also the case that such substrate invariances are not _arbitrary_ constructions of our minds: we cannot just randomly invent emergent phenomena willy-nilly.
+
+Thus, we can further conclude that emergent phenomena are [[objective]] in the sense that multiple different cognitive observers who have established a reliable means of communication, and who engage in the basic rules of the [[scientific method]], can come to a stable, reliable mutual agreement about the nature of such phenomena. In other words, we can agree on the predictions of the outcomes of experiments performed on such physical systems, based on the emergent-level descriptions of such systems _only_. Thus, the emergent level description provides predictive validity as a theory of overall system function.
+
+## Functionalism
+
+Emergence is closely related to [[functionalism]], which seeks to describe mental processes at a more abstract level in terms of systematic functional _relationships_, as contrasted with more basic physical substrates. A core property of functionalism is _multiple realizability_: the idea that a given mental state can be realized by different underlying physical substrates [@Putnam67]. This is identical to the principle of substrate invariance and overall it is unclear if there are any substantive differences between functionalism and emergence. Nevertheless, it is interesting that the wikipedia article on [functionalism](https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)) does not mention [emergence](https://en.wikipedia.org/wiki/Emergence) and vice-versa. The extensive discussion in [@Fodor81] about functionalism develops many of the same points as stated above about simulation of emergent phenomena.
+
+## Digital computers
+
+Digital computers have multiple important properties in relation to emergence. First, as emphasized by [@Fodor81], a computer exhibits a clear form of separation between the underlying hardware and the software that runs on top of it: the same software program can run on many different types of hardware, including different physical instances of the same computer type, and computers with wildly different underlying hardware implementations at all levels. The three different levels of description proposed by [@Marr81], computational, algorithmic, and implementational, were similarly derived from consideration of digital computers, and entail three different levels of emergent phenomena.
+
+Despite the clarity of the separation between software and hardware in a computer, it remains the case that any actual individual instance of a computer running a given software program can be described entirely at the physical level, in terms of the flow of electrons and the states of the various logic gates involved. It is only once we consider the multiple realizability of the same software program across different hardware that the distinctions become apparent.
+
+A computer is also special because its very design maximizes the substrate invariance property underlying emergent phenomena. Specifically, computer hardware has specific mechanisms that allow electrical states stored in arbitrary locations in a uniform block of memory to control the subsequent flow of these same electrical states over time through the system. Central to this ability is the basic [[logic gate]], where a control voltage signal determines what happens along a separate electrical pathway. The cumulative effect is to create a highly flexible electrical system that can route electrical signals conditioned on the states of other electrical signals, organized fundamentally according to the computationally universal [[Turing machine]] (actually a [[von Neumann architecture]]), so that it can support any kind of computation.
+
+The ability of a digital computer to simulate any kind of other physical system, and thereby realize the substrate invariance property, depends on this computational universality. As noted above, any individual actual computer running a specific software program could in principle be completely described according to the basic physics of all of its myriad components. Therefore, it is does not have any extra-physical "magic": all of the magic comes from the universal flexibility of its design, and the level separation is only evident when comparing across machines and across time within a given machine.
+
+## Causality across levels
+
+A key question about emergence, particularly for the issue of [[free will]], is the nature of causal determinism in the behavior of an emergent system. At a very basic level, the notion of _substrate invariance_ strongly suggests that the behavior of an emergent system is independent of the lower level substrate.
+
+At one level, to reiterate again, it is theoretically possible to describe the behavior of any individual physical system using the basic laws of physics at the atomic scale. Nevertheless, leveraging the example of the digital computer, it is much more efficient to describe the behavior of a computer at the level of the software program that it is running. Furthermore, when we run that same program across multiple different computers, or across time on the same computer, it becomes clear that the "true" causal factor driving the behavior of the system is in fact the software. But again, this level of understanding is only available to the cognitive observer with a sufficiently deep understanding of the nature of the system.
+
+Critically, digital computers are specifically designed so as to _insulate_ the overall behavior of the system from the random details of underlying electrical signals on which they are built. Logic gates specifically impose a strong, high threshold between the on and off binary states, which significantly reduces the impact of random thermal noise. Error correcting components further reduce the impacts of noise, resulting in highly reliable overall systems with very low error rates. In effect, this means that the physics at the lower level is all but irrelevant for the higher-level behavior of the system.
+
+This is not a _necessary_ property of any given physical system, but nevertheless we can understand the types of physical mechanisms that give rise to such strong breaks in physical determinism across levels. 
+
+* stochastic aggeregate behvior: law of large numbers drives a level break
+* thresholding: neurons critically have this property: analog vs. digital circuits, etc.
+
+In summary, we can conclude that it is _possible_, but not _necessary_ for a physical system to become effectively decoupled from its underlying physical substrate in terms of the causal mechanisms that drive its behavior.
+
+
