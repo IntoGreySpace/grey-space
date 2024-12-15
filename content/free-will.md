@@ -10,11 +10,13 @@ The escape route out of this chain-like cage of thinking involves two key steps:
 
 In the same way as the gears made of different materials, two different people can come to behave in similar ways to each other, by developing similar sets of internal mental representations ("values" and "morals") that guide their behavioral choices, despite having entirely different causal life histories and molecular constituents. Conversely, the same person across very different moments in time and across many different physical contexts, can choose to behave in a similar and consistent manner, according to their own morals and values.
 
-Furthermore, the molecular constituents of any given individual are constantly undergoing rapid turnover, constantly being broken down and regenerated anew, and yet we clearly experience a continuity of thought and memory over time that represents a strong emergent level of organization that persists independent of the lower physical components.
+Furthermore, the molecular constituents of any given individual are constantly undergoing rapid turnover, constantly being broken down and regenerated anew [@RolfsFreyShiEtAl21], and yet we clearly experience a continuity of thought and memory over time that represents a strong emergent level of organization that persists independent of the lower physical components.
 
 There is strong evidence that the [[synaptic weights]] among [[neurons]] play a dominant role in shaping the nature of our thoughts and memories, and these synapses are shaped by our experiences through learning mechanisms. Artificial systems composed of entirely different substrates can simulate these same processes and replicate a remarkable amount of the same cognitive and behavioral functions as the human brain, providing yet another demonstration of the reality of this emergent level of organization.
 
 In summary, the human brain can exhibit what most people would recognize as "free will" because the brain develops emergent levels of organization where the state evolution of the system is governed by "thoughts" that incorporate abstract, atemporal concepts such as morals and values and distant episodic memories, that then drive the future behavior of the system in accordance with these factors, effectively independent of the underlying molecular substrates of the brain itself. The cage of the causal chain is thereby broken, and we are free of its confines, as long as we continue to actually _think_ about what we're doing, and not just react reflexively.
+
+See the page on [[emergence]] for a more thorough discussion of the properties that allow an emergent system to effectively become decoupled from its underlying physical substrate, and therefore exhibit an effective causal break from this substrate, to be governed instead by higher-level emergent properties (i.e., the "software" is in charge of the "hardware").
 
 ## Cultural and life history determinism
 
