@@ -2,7 +2,7 @@ How can some notion of "free will" exist in a deterministic (or randomly noisy) 
 
 The unidirectional arrow of time creates a _chain of events_, like a chain of falling dominoes, that does not seem to admit to any gaps where something like free will might emerge.
 
-The escape route out of this chain-like cage of thinking involves two key steps:
+An escape route out of this chain-like cage of thinking involves two key steps:
 
 1. Our brains are capable of representing abstract, _atemporal_ conceptions of the world, that are detached from any specific causal chain, and allow us to consider many different alternative courses of future actions and events, and their potentially distant future outcomes. We can engage in sufficiently extended and abstracted thought processes that the outcome of such a process becomes _conditioned by the content of the thoughts themselves_ rather than the underlying physical processes supporting these thoughts.
 
@@ -14,13 +14,15 @@ Furthermore, the molecular constituents of any given individual are constantly u
 
 There is strong evidence that the [[synaptic weights]] among [[neurons]] play a dominant role in shaping the nature of our thoughts and memories, and these synapses are shaped by our experiences through learning mechanisms. Artificial systems composed of entirely different substrates can simulate these same processes and replicate a remarkable amount of the same cognitive and behavioral functions as the human brain, providing yet another demonstration of the reality of this emergent level of organization.
 
+As in the examples above, two simulated networks with entirely different random initial weights will develop similar behavior when exposed to the same set of experiences, demonstrating that the system comes to be governed by what it learns, rather than by the randomness in the physical substrate. This includes considerable noise tolerance due in part to the threshold nature of neural spiking.
+
 In summary, the human brain can exhibit what most people would recognize as "free will" because the brain develops emergent levels of organization where the state evolution of the system is governed by "thoughts" that incorporate abstract, atemporal concepts such as morals and values and distant episodic memories, that then drive the future behavior of the system in accordance with these factors, effectively independent of the underlying molecular substrates of the brain itself. The cage of the causal chain is thereby broken, and we are free of its confines, as long as we continue to actually _think_ about what we're doing, and not just react reflexively.
 
-See the page on [[emergence]] for a more thorough discussion of the properties that allow an emergent system to effectively become decoupled from its underlying physical substrate, and therefore exhibit an effective causal break from this substrate, to be governed instead by higher-level emergent properties (i.e., the "software" is in charge of the "hardware").
+See the page on [[emergence]] for a more thorough discussion of the properties that allow an emergent system to effectively become decoupled from its underlying physical substrate, and therefore exhibit an effective causal break from this substrate, to be governed instead by higher-level emergent properties: the "software" is in charge of the "hardware". In effect, the brain is like a self-programming computer, where learning and our capacity for mental reasoning can establish new software programs that then drive our behavior, rather than being subject to any fixed deterministic behavior driven directly by the underlying hardware of the brain.
 
 ## Cultural and life history determinism
 
 A further potential rejoinder to the above arguments is that an individual's thoughts, values etc are determined by their life history in the context of their culture, and therefore free will still does not exist. This then becomes more of a terminological question, which ends up exposing the fundamental inadequacy of the concept of "free will" in the first place. It is difficult to conceive of any such notion where someone would be "truly free" of any past influences, or why anyone would would ever really want such a thing in the first place. Of course we are all influenced by our life experience and culture, and from these experiences we develop our own internal mental world, with all of its own values and abstractions that together constitute the "self". This is presumably what constitutes the "will" part of "free will", and we want that.
 
-The free part of it derives from the fact that our internal mental world is free from any direct, limited causal cage by virtue of the core principle of emergence, and we are free to spend as much time as we want (subject to the other inevitable constraints of life) to contemplate various principles and schools of thought, and shape our values and moral codes accordingly.
+The free part of it derives from the fact that our internal mental world is free from any direct, limited causal cage by virtue of the core principle of emergence, and we are free to spend as much time as we want (subject to the other inevitable constraints of life) to contemplate various principles and schools of thought, and shape our values and moral codes accordingly, which then directly guides our behavior.
 
