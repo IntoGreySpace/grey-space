@@ -30,7 +30,7 @@ Down here in the "real" world, _of course_ we are all influenced by our life exp
 
 Thus, perhaps we could be satisfied by saying that people have the _capacity_ to behave in a way that is not _directly_ causally determined by lower-level physics, nor by higher-level cultural or life history factors, but rather is directly determined by a conscious, deliberative thought process that considers the various possible courses of action, and reasonably attempts to anticipate the outcomes and implications of those actions.
 
-This is basically the legal definition of free will that entails a legal responsibility for one's actions, and it is good enough for me.
+This is basically the legal definition of free will that entails a legal responsibility for one's actions, and it is good enough for me. Even if much of the time we fail to consider our decisions very thoroughly, and thus end up not being very "free" most of the time, the legal burden, and the logical one here, is merely to establish the capacity, not the preponderance.
 
 As a specific example, I know a lot of people who have become vegetarians as a result of engaging in "rational thought" about their values and the alignment of those values with their behavioral choices. Nobody forced them to do so. They just became aware in any of a number of different ways about the impacts of their choices, and decided to change their behavior accordingly. Two people receiving the same information may come to entirely different conclusions.
 
