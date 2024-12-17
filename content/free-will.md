@@ -36,3 +36,19 @@ As a specific example, I know a lot of people who have become vegetarians as a r
 
 For example, I have _not_ become a vegetarian (again -- I already was one from 3rd grade until college), despite seeing the movie _Okja_, because I feel that death is a fundamental part of life (see [[meaning of life]]), and the "food chain" is unavoidable. Nevertheless, inspired by my colleague Seth Herd, I try my best to only eat "happy meat", and I also do try to in general reduce my meat consumption due to the overall environmental impacts.
 
+## Compatibalism
+
+The wikipedia entry on [compatibalism](https://en.wikipedia.org/wiki/Compatibilism) captures many of the relevant issues with this interpretation, from my perspective, and I agree with the critiques provided by William James and Immanuel Kant:
+
+> James accused the soft determinists of creating a "quagmire of evasion" by stealing the name of freedom to mask their underlying determinism.
+
+> Kant called it a "wretched subterfuge" and "word jugglery".
+
+Specifically, if you posit that the human mind is determined directly by physical causality, such that there is no sense in which it could be considered to act in a manner that is free from the direct causal chain, and at the same time claim that this is nevertheless consistent with free will, then that does seem like a contradictory argument to me.
+
+Interestingly, Kant's view is similar to emergence-based approach, where conscious reasoning provides a clear break from ordinary physical determinism:
+
+> Kant's argument turns on the view that, while all empirical phenomena must result from determining causes, human thought introduces something seemingly not found elsewhere in nature—the ability to conceive of the world in terms of how it ought to be, or how it might otherwise be. For Kant, subjective reasoning is necessarily distinct from how the world is empirically. Because of its capacity to distinguish is from ought, reasoning can "spontaneously" originate new events without being itself determined by what already exists.
+
+I guess I need to go back and read Kant and see what kind of metaphysical story he had about the nature of human reasoning (no memories of such remain from my college philosophy courses).
+
