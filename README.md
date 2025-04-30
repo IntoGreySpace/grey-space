@@ -4,7 +4,7 @@
 
 This space is an interconnected set of hyperlinked pages, rendered and brought to life by Cogent Content. A good high-level point of departure is the [Meaning of life](content/meaning-of-life.md).
 
-The goal here is to create a self-consistent set of ideas, based on the accumulated "wisdom" in my brain, and and as such, I (Randall O'Reilly) retain final editorial control over the content, but welcome input from any and all about places where I might have gone astray or have major oversights etc. I'm not a professional philosopher by any stretch (despite having a "doctorate of philosophy" -- I'm not a doctor either!), and a core premise of the work here is that ultimately all the answers come from scientific understanding.
+The goal here is to create a self-consistent set of ideas, based on the accumulated "wisdom" in my brain, and as such, I (Randall O'Reilly) retain final editorial control over the content, but welcome input from any and all about places where I might have gone astray or have major oversights etc. I'm not a professional philosopher by any stretch (despite having a "doctorate of philosophy" -- I'm not a doctor either!), and a core premise of the work here is that ultimately all the answers are grounded in scientific understanding.
 
 The main contribution of philosophy in this context is to establish links across very different areas of scientific understanding in order to find the self-consistent big picture, and to properly situate the nature of understanding within the fundamentally subjective nature of human experience, which provides our imperfect window into this wonderful grey space of ideas.
 
