@@ -9,6 +9,7 @@ import (
 
 	"cogentcore.org/core/content"
 	"cogentcore.org/core/core"
+	"cogentcore.org/core/icons"
 	"cogentcore.org/core/text/csl"
 	_ "cogentcore.org/core/text/tex" // include this to get math
 	"cogentcore.org/core/tree"
@@ -35,7 +36,7 @@ func main() {
 	content.OfflineURL = "https://grey-space.org"
 	b := core.NewBody(content.Settings.SiteTitle)
 	ct := content.NewContent(b).SetContent(econtent)
-	// ctx := ct.Context
+	ctx := ct.Context
 	refs, err := csl.OpenFS(econtent, "citedrefs.json")
 	if err == nil {
 		ct.References = csl.NewKeyList(refs)
@@ -44,6 +45,10 @@ func main() {
 		core.NewToolbar(bar).Maker(func(p *tree.Plan) {
 			ct.MakeToolbar(p)
 			ct.MakeToolbarPDF(p)
+			tree.Add(p, func(w *core.Button) {
+				ctx.LinkButton(w, "https://github.com/IntoGreySpace/grey-space")
+				w.SetText("GitHub").SetIcon(icons.GitHub)
+			})
 		})
 	})
 
