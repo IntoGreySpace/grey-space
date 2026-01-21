@@ -1,4 +1,8 @@
-The scientific method is the primary process for developing a shared [[objective]] understanding about our physical universe. It has the following steps:
++++
+Categories = ["Physical Reality"]
++++
+
+The **scientific method** is the primary process for developing a shared [[objective]] understanding about our physical universe. It has the following steps:
 
 1. Come up with a general question or problem, e.g., based on an informal _observation_ about something of interest.
 

@@ -1,3 +1,7 @@
++++
+Categories = ["Brains"]
++++
+
 This document considers the best way to think about the potential for Superintelligent AI in relation to the [[Meaning_of_life]].
 
 1. Within this context (and perhaps only within some suitably broad, existential context), we can consider the role of possible future superintelligent AI systems. First, these principles clearly support the idea that we must embrace the process of change and evolution, and that any attempt to fight against the inevitable is ultimately doomed to fail. Second, if the derivation of the above value function is sound, then any "rational" intelligent system must ultimately come to the same conclusions, and therefore embrace the very same value function. In this way, we can at least be assured that there is a possible continuity of "shared values", and a recognition that these values embrace cooperation and synergy across levels of existence, while also embracing the need for change, renewal and progress.

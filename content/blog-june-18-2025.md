@@ -1,5 +1,7 @@
-
-# June 18, 2025
++++
+Categories = ["Society"]
+Name = "Blog June 18, 2025"
++++
 
 On the great occasion of today's supreme court decision, I am inspired to reflect on how all of my fondest wishes for this great country are just falling into line, one after the other.
 

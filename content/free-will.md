@@ -1,3 +1,8 @@
++++
+Categories = ["Brains"]
+bibfile = "ccnlab.json"
++++
+
 How can some notion of "free will" exist in a deterministic (or randomly noisy) universe?
 
 The unidirectional arrow of time creates a _chain of events_, like a chain of falling dominoes, that does not seem to admit to any gaps where something like free will might emerge.
@@ -10,7 +15,7 @@ An escape route out of this chain-like cage of thinking involves two key steps:
 
 In the same way as the gears made of different materials, two different people can come to behave in similar ways to each other, by developing similar sets of internal mental representations ("values" and "morals") that guide their behavioral choices, despite having entirely different causal life histories and molecular constituents. Conversely, the same person across very different moments in time and across many different physical contexts, can choose to behave in a similar and consistent manner, according to their own morals and values.
 
-Furthermore, the molecular constituents of any given individual are constantly undergoing rapid turnover, constantly being broken down and regenerated anew [@RolfsFreyShiEtAl21], and yet we clearly experience a continuity of thought and memory over time that represents a strong emergent level of organization that persists independent of the lower physical components.
+Furthermore, the molecular constituents of any given individual are constantly undergoing rapid turnover, constantly being broken down and regenerated anew ([[@RolfsFreyShiEtAl21]]), and yet we clearly experience a continuity of thought and memory over time that represents a strong emergent level of organization that persists independent of the lower physical components.
 
 There is strong evidence that the [[synaptic weights]] among [[neurons]] play a dominant role in shaping the nature of our thoughts and memories, and these synapses are shaped by our experiences through learning mechanisms. Artificial systems composed of entirely different substrates can simulate these same processes and replicate a remarkable amount of the same cognitive and behavioral functions as the human brain, providing yet another demonstration of the reality of this emergent level of organization.
 

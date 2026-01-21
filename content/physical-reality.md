@@ -1,3 +1,7 @@
++++
+Categories = ["Physical Reality"]
++++
+
 All of the philosophy developed herein is grounded in our scientific understanding of the the physical universe in which we exist. It is a _materialist_, _naturalist_ philosophy, with the [[scientific method]] as the ultimate arbiter of [[objective]] understanding.
 
 Unfortunately, despite considerable advances, a complete understanding of the nature of the physical laws of our universe remains elusive at this time. While we do have a _standard model_ that provides an accurate _description_ of the fundamental nature of physics, it is safe to say that this model is full of paradoxes and contradictions that render it essentially nonsensical according to the standard expected at every other level of science.
@@ -60,4 +64,5 @@ Thus, we conclude that emergent phenomena are entirely a construction that we im
 
 And yet, due to the constantly changing nature of any macroscopic physical thing, _everything_ that we think about at this macroscopic level is effectively an emergent phenomenon: there are certain properties that we use to define the relevant nature of the thing in question, and we consider it to be the "same" thing so long as those properties still hold, as an _invariant_ property of the thing relative to its ever-changing underlying physical substrate.
 
+## Pages
 

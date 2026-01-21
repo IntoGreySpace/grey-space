@@ -1,4 +1,8 @@
-The cosmology of the universe provides the largest scale framing of many important issues of relevance to the [[meaning of life]] and the nature of [[physical reality]].
++++
+Categories = ["Physical Reality"]
++++
+
+The **cosmology** of the universe provides the largest scale framing of many important issues of relevance to the [[meaning of life]] and the nature of [[physical reality]].
 
 The basic facts are well established, as summarized in the [chronology of the universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe) wikipedia page, and despite a few dissenters, there is almost universal agreement on the basic facts regarding the occurrence of a "big bang" roughly 13.8 billion years ago.
 

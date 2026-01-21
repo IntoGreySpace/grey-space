@@ -1,4 +1,8 @@
-Here we attempt to develop a value function for "intelligent life" based on a consideration of the nature of [[objective]] reality as we know it (i.e., the "meaning of life"). This directly contradicts the [is-ought](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) separation as proposed by Hume.
++++
+Categories = ["Brains"]
++++
+
+Here we attempt to develop a value function for "intelligent life" based on a consideration of the nature of [[objective]] reality as we know it (i.e., the **meaning of life**). This directly contradicts the [is-ought](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) separation as proposed by Hume.
 
 1. Existence is the most fundamental value: only things that actually exist can have value, and the most basic value is mere existence itself.
 

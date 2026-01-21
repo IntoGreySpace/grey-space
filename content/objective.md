@@ -1,4 +1,8 @@
-Objective is defined in contrast with the primary [[subjective]] perspective, as a shared level of understanding about the nature of the physical universe, created and used by cognitive systems (e.g., human brains) to accurately and reliably describe the properties of this universe.
++++
+Categories = ["Physical Reality", "Brains"]
++++
+
+**Objective** is defined in contrast with the primary [[subjective]] perspective, as a shared level of understanding about the nature of the physical universe, created and used by cognitive systems (e.g., human brains) to accurately and reliably describe the properties of this universe.
 
 Objective knowledge is _about_ the external, observable (in some way, no matter how indirect) properties and nature of the physical universe. Unlike subjective mental states, objective knowledge can be _wrong_: you can have an incorrect understanding about the physical universe, and, if you follow the rules of the game properly, this erroneous understanding can generally be reasonably established, at least in principle.
 

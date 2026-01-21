@@ -1,8 +1,9 @@
 +++
+Categories = ["Society"]
 bibfile = "kleroterio.json"
 +++
 
-This page attempts to formulate an "ideal" system of government based on a set of [[self-consistent]] "principles", starting from the most basic foundations. These principles mostly reflect standard theoretical understanding about the nature and role of government, also informed by an understanding of some key elements of human psychology and neuroscience.
+This page attempts to formulate an "ideal" system of **government** based on a set of [[self-consistent]] "principles", starting from the most basic foundations. These principles mostly reflect standard theoretical understanding about the nature and role of government, also informed by an understanding of some key elements of human psychology and neuroscience.
 
 The overall trajectory of the argument is to first develop a principled basis for understanding the motivations and nature of existing systems of representative electoral democracy, which is the dominant form of government for most people today, and has been elevated as a foundation of basic human rights by the [United Nations](https://en.wikisource.org/wiki/Universal_Declaration_of_Human_Rights):
 
