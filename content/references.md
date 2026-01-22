@@ -10,9 +10,13 @@
 
 <p id="Fodor81">Fodor, J.A. (1981). The Mind-Body Problem. <i>Scientific American, 244</i>, 114–123. <a href="https://www.jstor.org/stable/24964264">https://www.jstor.org/stable/24964264</a></p>
 
+<p id="Hayashi16">Hayashi, P. (2016). Tattvabodha and the hierarchical necessity of Abraham Maslow. <i>Journal of Management, Spirituality & Religion, 13</i>, 82–93. <a href="http://doi.org/10.1080/14766086.2015.1076735"> http://doi.org/10.1080/14766086.2015.1076735</a></p>
+
 <p id="KochMassiminiBolyEtAl16">Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. <i>Nature Reviews Neuroscience, 17</i>(5), 307–321. <a href="http://www.nature.com/articles/nrn.2016.22">http://www.nature.com/articles/nrn.2016.22</a><a href="http://doi.org/10.1038/nrn.2016.22"> http://doi.org/10.1038/nrn.2016.22</a></p>
 
 <p id="Lamme06">Lamme, V.A.F. (2006). Towards a true neural stance on consciousness. <i>Trends in Cognitive Sciences, 10</i>, 494–501. <a href="http://www.cell.com/article/S1364661306002373/abstract">http://www.cell.com/article/S1364661306002373/abstract</a><a href="http://doi.org/10.1016/j.tics.2006.09.001"> http://doi.org/10.1016/j.tics.2006.09.001</a></p>
+
+<p id="Maslow43">Maslow, A.H. (1943). A Theory of Human Motivation. <i>Psychological Review, 50</i>, 370–396. </p>
 
 <p id="Nagel74">Nagel, T. (1974). What Is It Like to Be a Bat? <i>The Philosophical Review, 83</i>, 435–450. <a href="https://www.jstor.org/stable/2183914">https://www.jstor.org/stable/2183914</a><a href="http://doi.org/10.2307/2183914"> http://doi.org/10.2307/2183914</a></p>
 
@@ -20,7 +24,11 @@
 
 <p id="RolfsFreyShiEtAl21">Rolfs, Z., Frey, B.L., Shi, X., Kawai, Y., Smith, L.M., & Welham, N.V. (2021). An atlas of protein turnover rates in mouse tissues. <i>Nature Communications, 12</i>, 6778. <a href="https://www.nature.com/articles/s41467-021-26842-3">https://www.nature.com/articles/s41467-021-26842-3</a><a href="http://doi.org/10.1038/s41467-021-26842-3"> http://doi.org/10.1038/s41467-021-26842-3</a></p>
 
+<p id="Shafak11">Shafak, E. (2011). <i>The Forty Rules of Love: A Novel of Rumi. </i> Penguin Books. </p>
+
 <p id="SlomanFernbach18">Sloman, S., & Fernbach, P. (2018). <i>The Knowledge Illusion: Why We Never Think Alone. </i> Penguin. </p>
+
+<p id="Tomasello01">Tomasello, M. (2001). <i>The Cultural Origins of Human Cognition. </i> Harvard University Press. </p>
 
 <p id="Tononi04">Tononi, G. (2004). An information integration theory of consciousness. <i>BMC Neuroscience, 5</i>, 42. <a href="https://doi.org/10.1186/1471-2202-5-42">https://doi.org/10.1186/1471-2202-5-42</a><a href="http://doi.org/10.1186/1471-2202-5-42"> http://doi.org/10.1186/1471-2202-5-42</a></p>
 

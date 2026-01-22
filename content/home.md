@@ -15,7 +15,7 @@ So far this is all the work of Randall C. O'Reilly, who otherwise spends his day
 
 > The Grey Space is the place where ideas live. It is grey because the ultimate truths of the universe are contractory, neither black nor white but rather a beautiful grey space full of conflict and contradiction, that nevertheless admits to a perfectly self-consistent overall level of understanding. There is nothing mysterious about this grey space, and yet it holds all of the mysteries of the universe within it. This grey space lives within the grey matter of my brain, and your brain, and all other such systems capable of understanding these ideas.
 
-This space is an interconnected set of hyperlinked pages, rendered and brought to life by Cogent Content. A good high-level point of departure is the [Meaning of life](content/meaning-of-life.md).
+This space is an interconnected set of hyperlinked pages, rendered and brought to life by Cogent Content. A good high-level point of departure is the [[Meaning of life]].
 
 The goal here is to create a self-consistent set of ideas, based on the accumulated "wisdom" in my brain, and as such, I (Randall O'Reilly) retain final editorial control over the content, but welcome input from any and all about places where I might have gone astray or have major oversights etc. I'm not a professional philosopher by any stretch (despite having a "doctorate of philosophy" -- I'm not a doctor either!), and a core premise of the work here is that ultimately all the answers are grounded in scientific understanding.
 
