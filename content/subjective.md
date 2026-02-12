@@ -18,5 +18,5 @@ In other words, subjective experience is literally _what it feels like_ to actua
 
 See [[@^JilkOReillyIP]] for a fuller explication of this _perspective dualism_ argument, which builds on earlier discussion by [[@^Nagel74]] and others.
 
-Despite the primacy of subjective experience and knowledge, it is still possible to develop an effective body of [[objective]] knowledge as discussed on that page.
+Despite the primacy of subjective experience and knowledge, it is still possible to develop an effective body of [[objective]] knowledge as discussed on that page, and on the [[epistemology]] page.
 
