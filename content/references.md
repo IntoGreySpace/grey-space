@@ -8,6 +8,8 @@
 
 <p id="DehaeneNaccache01">Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. <i>Cognition, 79</i>, 1–37. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11164022">http://www.ncbi.nlm.nih.gov/pubmed/11164022</a></p>
 
+<p id="Fleisher22">Fleisher, W. (2022). Understanding, Idealization, and Explainable AI. <i>Episteme, 19</i>, 534–560. <a href="https://www.cambridge.org/core/journals/episteme/article/understanding-idealization-and-explainable-ai/635566D3074E7F300EEAC746BA7249E4">https://www.cambridge.org/core/journals/episteme/article/understanding-idealization-and-explainable-ai/635566D3074E7F300EEAC746BA7249E4</a><a href="http://doi.org/10.1017/epi.2022.39"> http://doi.org/10.1017/epi.2022.39</a></p>
+
 <p id="Fodor81">Fodor, J.A. (1981). The Mind-Body Problem. <i>Scientific American, 244</i>, 114–123. <a href="https://www.jstor.org/stable/24964264">https://www.jstor.org/stable/24964264</a></p>
 
 <p id="Hayashi16">Hayashi, P. (2016). Tattvabodha and the hierarchical necessity of Abraham Maslow. <i>Journal of Management, Spirituality & Religion, 13</i>, 82–93. <a href="http://doi.org/10.1080/14766086.2015.1076735"> http://doi.org/10.1080/14766086.2015.1076735</a></p>

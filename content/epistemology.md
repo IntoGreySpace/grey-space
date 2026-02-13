@@ -37,6 +37,12 @@ Some other important tools in the assumption stack are:
     
     Neither of these operations are available outside of a cognitive system, so again they are not an intrinsic part of that base-level "raw" physical reality. But they are absolutely "real" in the sense that they enable shared, mutually-consistent, accurate predictive understanding of the behaviour of such physical systems (i.e., they are [[#truth-likeness|truth-like]]).
 
+## Skepticism and the desire for higher standards of truth
+
+The foundations of this approach to epistemology are notably weak compared to what perhaps one might otherwise desire. However, the claim would be that anything stronger is just delusional, and it is better to have an accurate understanding of weak foundations rather than a delusional understanding of stronger ones.
+
+Another potential reaction is to throw up one's hands and give up on the entire enterprise, given how weak its foundations are. How is it possible to ever make progress when everything is so contingent? This is the perennial role of the skeptic, which is certainly easy to defend, but it also runs the risk of defeating the potential for progress where such potential may actually exist.
+    
 ## Comparison, similarity, and categorization in a one-off world
 
 {id="figure_two-instances" style="height:20em"}
@@ -107,4 +113,12 @@ But it makes the process of trying to establish a fully self-consistent, all-enc
 
 There is nothing automatic or "natural" about that process: it takes work. What _is_ natural is a kind of effortless perception of things that _seem_ obvious, until you try to really connect them all and explain it to someone else, in a way that actually makes sense. That is essentially what I'm trying to do here in this website, and as always, it is a work in progress, but the process of trying to do so is what drives that progress.
 
+## Criteria for understanding
+
+There are various philosophical traditions that have tried to clarify the criteria for when a person thinks they understand something. These include three main criteria ([[@Fleisher22]]):
+* _Belief_: some kind of mental representation about the content of what is being understood (the "content").
+* _Success_: a way of validating the truth value of the belief, as in the [[#truth-likeness]] discussed above.
+* _Justification_: an ability to appeal to normative principles or rules that justify the belief.
+
+This provides an elaboration of the basic elements of the [[#truth-likeness]] framework: the belief component corresponding to the theoretical description, and the predictive validity providing the success criterion. The justification provides an additional dimension, closely related to the consistency factor discussed above.
 
