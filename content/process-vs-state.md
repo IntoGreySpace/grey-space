@@ -1,5 +1,5 @@
 +++
-Categories = ["Physical Reality", "Brain"]
+Categories = ["Physical Reality", "Brains"]
 +++
 
 The distinction between **process** (dynamic) vs **state** (static) is critical across so many domains and issues. First, we have to recognize that the two are fully interdependent, as processes operate on states, and states are generally inert without associated processes that give them some kind of impact on the world.

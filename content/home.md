@@ -5,7 +5,7 @@ Title = ""
 
 <img src="media/icon.png" style="width:128px;height:128px;align-self:center">
 
-Welcome to **The Grey Space**, a world of thoughts about thoughts, the [[brains]] that make those thoughts happen, and the world outside those thoughts, also known as [[physical reality]].
+Welcome to **The Grey Space**, a world of thoughts about thoughts (e.g., [[epistemology]]), the [[brains]] that make those thoughts happen, and the world outside those thoughts, also known as [[physical reality]].
 
 Also see [poetry.grey-space.org](https://poetry.grey-space.org) for poems that provide a more florid, [[subjective]] perspective on many of the same ideas.
 

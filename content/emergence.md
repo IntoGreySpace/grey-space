@@ -44,11 +44,14 @@ One might argue that there are still residual low-level details about the behavi
 
 ## Do emergent phenomena "really exist"?
 
-One concern about emergent phenomena is that they are fundamentally [[subjective]] in nature, dependent on the conceptual space of a cognitive observer, rather than objectively real properties of a physical system.
+One concern about emergent phenomena is that they are fundamentally [[subjective]] in nature, dependent on the conceptual space of a cognitive observer, rather than objectively real properties of a physical system, as discussed in [[epistemology]].
+
+{id="figure_two-instances" style="height:20em"}
+![A single instance of a "thing" is isomorphic with its base-level physical reality. It just is, and doesn't require any kind of abstract description. Once you introduce two instances, however, that very assertion that these are two "instances" of a "thing" immediately requires some way of comparing across the two instances, which then requires some basis for such a comparison: does shape matter? If so, what aspects? Does material matter? Thus, _any_ attempt to assert any level of description above the raw base-level physical reality is subject to assumptions about these criteria and _requires_ a cognitive system capable of performing the necessary comparisons to test for these critera.](media/fig_two_instances_requires_abstraction.png)
 
 This view can be justified by the [[supervenience]] perspective with respect to _a single instantiation_ of a physical system: such a system could plausibly be described at the lowest possible level of [[physical reality]], and the strong one-to-one mapping across all levels for a single such system admits to no "metaphysical gaps": it is all just physics in the end.
 
-However, once you consider _multiple_ physical systems, or the stable behavior of a given physical system over time despite significant changes in its underlying substrate, the substrate invariance property becomes manifest, and it arguably provides a much more generative and succinct explanation for why these systems behave as they do.
+However, once you consider _multiple_ physical systems, or the stable behavior of a given physical system over time despite changes in its underlying substrate (e.g., due to ubiquitous thermal noise), the substrate invariance property becomes manifest, and thus the emergent-level description arguably provides a more generative and succinct explanation for why these systems behave as they do ([[#figure_two-instances]]).
 
 Nevertheless, the very ability to compare across two physical systems, or across one system at different points in time, is only available to cognitive observers, as we discuss in the page on [[physical reality]]. In the "bare reality" of the physical systems themselves, there is no emergence, no comparisons, only physics.
 
@@ -56,7 +59,7 @@ Thus, it seems difficult to escape the conclusion that emergence is in fact a co
 
 Despite this conclusion, it is also the case that such substrate invariances are not _arbitrary_ constructions of our minds: we cannot just randomly invent emergent phenomena willy-nilly.
 
-Thus, we can further conclude that emergent phenomena are [[objective]] in the sense that multiple different cognitive observers who have established a reliable means of communication, and who engage in the basic rules of the [[scientific method]], can come to a stable, reliable mutual agreement about the nature of such phenomena. In other words, we can agree on the predictions of the outcomes of experiments performed on such physical systems, based on the emergent-level descriptions of such systems _only_. Thus, the emergent level description provides predictive validity as a theory of overall system function.
+Thus, we can further conclude that emergent phenomena are [[objective]] in the sense that multiple different cognitive observers who have established a reliable means of communication, and who engage in the basic rules of the [[scientific method]], can come to a stable, reliable mutual agreement about the nature of such phenomena. In other words, we can agree on the predictions of the outcomes of experiments performed on such physical systems, based on the emergent-level descriptions of such systems _only_. Thus, the emergent level description provides predictive validity as a theory of overall system function (see [[epistemology#truth-likeness]]).
 
 In summary, from one perspective emergent phenomena are not "real" in the sense of something that is somehow part of the base-level physical laws of the universe. But very few things admit to this level of reality, so it is perhaps not that useful of a criterion. On the other hand, they are just as real as any other construct in our objective scientific language, from cells to waves to birds to the brain. Indeed all of these things could be described as emergent phenomena, and it is hard to imagine how we could ever develop a systematic understanding of the world without these kinds of more abstract emergent concepts.
 

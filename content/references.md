@@ -20,6 +20,8 @@
 
 <p id="Nagel74">Nagel, T. (1974). What Is It Like to Be a Bat? <i>The Philosophical Review, 83</i>, 435–450. <a href="https://www.jstor.org/stable/2183914">https://www.jstor.org/stable/2183914</a><a href="http://doi.org/10.2307/2183914"> http://doi.org/10.2307/2183914</a></p>
 
+<p id="Psillos05">Psillos, S. (2005). <i>Scientific Realism: How Science Tracks Truth. </i> Routledge. </p>
+
 <p id="Putnam67">Putnam, H. (1967). Psychological Predicates. In W.H. Capitan, & D.D. Merrill (Eds.), <i>Art, mind, and religion</i> (pp. 37–48). University of Pittsburgh Press. </p>
 
 <p id="RolfsFreyShiEtAl21">Rolfs, Z., Frey, B.L., Shi, X., Kawai, Y., Smith, L.M., & Welham, N.V. (2021). An atlas of protein turnover rates in mouse tissues. <i>Nature Communications, 12</i>, 6778. <a href="https://www.nature.com/articles/s41467-021-26842-3">https://www.nature.com/articles/s41467-021-26842-3</a><a href="http://doi.org/10.1038/s41467-021-26842-3"> http://doi.org/10.1038/s41467-021-26842-3</a></p>

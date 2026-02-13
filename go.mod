@@ -3,8 +3,8 @@ module github.com/IntoGreySpace/grey-space
 go 1.25.6
 
 require (
-	cogentcore.org/core v0.3.17
-	cogentcore.org/lab v0.1.4
+	cogentcore.org/core v0.3.18
+	cogentcore.org/lab v0.1.5
 )
 
 require (
