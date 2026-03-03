@@ -3,7 +3,7 @@ module github.com/IntoGreySpace/grey-space
 go 1.25.6
 
 require (
-	cogentcore.org/core v0.3.20
+	cogentcore.org/core v0.3.21
 	cogentcore.org/lab v0.1.5
 )
 
