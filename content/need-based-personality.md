@@ -43,7 +43,7 @@ The social needs are:
 
 * **Control:** over social group behavior, versus the extent to which the group controls the behavior of the individual. This factor also varies significantly based on the size of the social group, with people in general tending to cede more control to larger groups, while exerting more of their own sense of control in smaller groups. This can be seen as a manifestation of the benefits of predictability in predictive learning, but it almost certainly can go well beyond that. A general feeling of lack of control can lead to feelings of helplesness and depression.
 
-* **Nurturing:** is the need to facilitate the individual growth of others, in the first instance as parents to their children, but also more broadly across mentorship and other such relationships.
+* **Nurturing:** is the need to facilitate the individual growth of others, in the first instance as parents to their children, but also more broadly across mentorship and other such relationships. This does not play into the personality factors, and at least traditionally is more strong in women than men.
 
 ## Personality factors
 
@@ -99,7 +99,7 @@ Jung's framework is based on a set of archetypes, and although such low-dimensio
 
 * Slytherin: are the manipulative, disagreeable, controlling kind of people. Thus, they are low on agreeableness most of all, and strongly unwilling to follow the will of the crowd. Instead, they seek to exert control over others, through manipulation and cunning. The other dimensions are less relevant, but can give rise to many different subtypes, such as a high-openness individual such as Steve Jobs, vs. a low-openness one like Donald Trump. The conscientiousness factor may be high in the case of someone who seeks a high level of social cohesion, despite also wanting high levels of social control: i.e., an autocratic type of person.
 
-* Ravenclaw: are defined by a high level of intelligence, which is not really a social or personality factor per se, but generally is associated with higher levels of openness. In general, the Ravenclaws are higher in introversion and also conscientiousness, which means that their intelligence is more like "book smart" geek than the "street smart" Gryffindor (note that Hermione really fits much better with Ravenclaw than Gryffindor). 
+* Ravenclaw: are defined by a high level of intelligence, which is not really a social or personality factor per se, but generally is associated with higher levels of openness. In general, the Ravenclaws are higher in introversion and also conscientiousness, which means that their intelligence is more like a "book smart" geek than the "street smart" Gryffindor (note that Hermione really fits much better with Ravenclaw than Gryffindor). 
 
 ## Social dyads
 
@@ -107,7 +107,7 @@ The key factor for forming a strongly integrated and stable social network is to
 
 Using the lower-dimensional Harry Potter space, we can consider the nature of different dyadic relationships among these 4 archetypes (see [[@HopwoodWrightAnsellEtAl13]]; [[@HopwoodWrightDonnellan11]] for relevant scientific studies).
 
-* Hufflepuff + Slytherin: this is the most stable pairing of all types, because the needs are entirely complementary. The Hufflepuff needs someone to control them, and the Slytherin needs someone to control. In other terminology, this is the S & M combination (sadist vs. mascochist), which also generally maps onto top vs. bottom in the queer community. Although they are opposites, they may develop respect for what the other has that they lack, while each satisfies the other's basic social needs.
+* Hufflepuff + Slytherin: this is the most stable pairing of all types, because the needs are entirely complementary. The Hufflepuff needs someone to control them, and the Slytherin needs someone to control. In other terminology, this is the S & M combination (sadist vs. mascochist), which also generally maps onto top vs. bottom in the queer community, and the traditional (1950's and before) husband and wife roles. Although they are opposites, they may develop respect for what the other has that they lack, while each satisfies the other's basic social needs. 
 
 * Hufflepuff + Gryffindor: this is the worst possible pairing, because they are polar opposites. The Gryffindor has low social needs, while the Hufflepuff has high ones. The Hufflepuff wants to be controlled by the Gryffindor, but the Gryffindor may not be interested in doing that at all.
 
