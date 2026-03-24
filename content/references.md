@@ -14,11 +14,19 @@
 
 <p id="Hayashi16">Hayashi, P. (2016). Tattvabodha and the hierarchical necessity of Abraham Maslow. <i>Journal of Management, Spirituality & Religion, 13</i>, 82–93. <a href="http://doi.org/10.1080/14766086.2015.1076735"> http://doi.org/10.1080/14766086.2015.1076735</a></p>
 
+<p id="HopwoodWrightAnsellEtAl13">Hopwood, C.J., Wright, A.G.C., Ansell, E.B., & Pincus, A.L. (2013). The interpersonal core of personality pathology. <i>Journal of Personality Disorders, 27</i>, 270–295. <a href="https://guilfordjournals.com/doi/abs/10.1521/pedi.2013.27.3.270">https://guilfordjournals.com/doi/abs/10.1521/pedi.2013.27.3.270</a><a href="http://doi.org/10.1521/pedi.2013.27.3.270"> http://doi.org/10.1521/pedi.2013.27.3.270</a></p>
+
+<p id="HopwoodWrightDonnellan11">Hopwood, C., Wright, A., & Donnellan, M. (2011). Evaluating the evidence for the general factor of personality across multiple inventories. <i>Journal of Research in Personality, </i></p>
+
 <p id="KochMassiminiBolyEtAl16">Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. <i>Nature Reviews Neuroscience, 17</i>(5), 307–321. <a href="http://www.nature.com/articles/nrn.2016.22">http://www.nature.com/articles/nrn.2016.22</a><a href="http://doi.org/10.1038/nrn.2016.22"> http://doi.org/10.1038/nrn.2016.22</a></p>
 
 <p id="Lamme06">Lamme, V.A.F. (2006). Towards a true neural stance on consciousness. <i>Trends in Cognitive Sciences, 10</i>, 494–501. <a href="http://www.cell.com/article/S1364661306002373/abstract">http://www.cell.com/article/S1364661306002373/abstract</a><a href="http://doi.org/10.1016/j.tics.2006.09.001"> http://doi.org/10.1016/j.tics.2006.09.001</a></p>
 
 <p id="Maslow43">Maslow, A.H. (1943). A Theory of Human Motivation. <i>Psychological Review, 50</i>, 370–396. </p>
+
+<p id="McCraeCosta97">McCrae, R.R., & Costa, P.T. (1997). Personality trait structure as a human universal. <i>The American psychologist, 52</i>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/9145021">http://www.ncbi.nlm.nih.gov/pubmed/9145021</a></p>
+
+<p id="McCraeCostaMartinEtAl04">McCrae, R.R., Costa, P.T., Martin, T.A., Oryol, V.E., Rukavishnikov, A.A., Senin, I.G., Hrebickova, M., & Urbanek, T. (2004). Consensual validation of personality traits across cultures. <i>Journal of Research in Personality, 38</i>, 179–201. <a href="http://www.sciencedirect.com/science/article/pii/S0092656603000564">http://www.sciencedirect.com/science/article/pii/S0092656603000564</a><a href="http://doi.org/10.1016/S0092-6566(03)00056-4"> http://doi.org/10.1016/S0092-6566(03)00056-4</a></p>
 
 <p id="Nagel74">Nagel, T. (1974). What Is It Like to Be a Bat? <i>The Philosophical Review, 83</i>, 435–450. <a href="https://www.jstor.org/stable/2183914">https://www.jstor.org/stable/2183914</a><a href="http://doi.org/10.2307/2183914"> http://doi.org/10.2307/2183914</a></p>
 
