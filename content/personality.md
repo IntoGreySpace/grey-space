@@ -25,6 +25,8 @@ The neural-mechanistic version of these metaphors is that the attractor dynamics
 
 This internal process of integration within one individual is also manifest in the attempt to develop stable, integrated networks of interpersonal social interactions. We try to understand how other people work, as well as ourselves, and try to figure out ways of behaving and interacting with others so as to make things overall more predictable and mutually-beneficial (at least for most people, most of the time).
 
+See [[insecurity]] for discussion of this pervasive, major barrier to personal and social integration.
+
 ## Social needs
 	
 Most people have a common set of [emotional](https://compcogneuro.org/emotion) needs that drive their behavior to satisfy these needs, as shaped by evolution to promote the survival and "thrival" of the human species. These needs can be organized into more basic needs like food and water, and a relatively large set of socially-based needs that are essential for allowing human culture to thrive (e.g., as proposed by Maslow in his _hierarchy of needs_) ([[@Tomasello01]]). It is these social needs that most people in the modern world wrestle with the most, and they provide the foundation for this framework.
