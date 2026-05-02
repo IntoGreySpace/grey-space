@@ -1,0 +1,45 @@
++++
+Categories = ["Brains"]
+bibfile = "ccnlab.json"
++++
+
+One's own sense of individual **identity** within the broader social context plays a perhaps surprisingly strong role in shaping one's life and behavior, along with [[personality]]. The distinction between identity and personality can be somewhat subtle, and the two strongly interact, because both are so strongly shaped by the same set of social needs, as summarized in the [compcogneuro.org emotion](https://compcogneuro.org/emotion) page.
+
+Personality is something that builds on biologically-driven _temperament_ factors, and remains largely _subconscious_ and continuously drives our moment-by-moment behaviors and thoughts. It is always there. Identity is something that develops later, in stages, and is more intrinsically defined by social context and a sense of where one belongs.
+
+Because of the sheer strength of the social forces acting upon us, we each experience the overriding need to establish some kind of internal understanding of our place within society. This need emerges around the time of adolescence, when we experience that period of transition from the relative safety and comfort of the family environment (nominally at least, for many people), and must establish our own **independent** existence for the first time, as an **adult.** Erik Erikson was one of the first psychologists to focus on the developmental process of identity and its emergence within adolescence.
+
+Perhaps the clearest picture of the scope of what happens during adolescence comes from the _monomyth_ of [The Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey), which underlies a staggering number of different stories across many different cultures, as popularized by Joseph Campbell and exemplified by classics such as _The Hobbit_ and _Lord of the Rings_, _Harry Potter_, and _Star Wars_. The popularity and prevalence of this narrative arc is perhaps due to the fact that it taps into this fundamental narrative arc of each individual's life.
+
+Just as in adolescence, the story starts with someone who is in a relatively comfortable, stable phase of life, but then experiences a _call to adventure_ that draws them out of that safe nest, where they must face _existential trials_ of great difficulty. The victorious result is a dramatic _transformation_ that opens up important new opportunities and powers that the person never knew they had. Typically, they have a _triumphant return_ back home, where everyone rejoices in the glorious gifts of this new growth.
+
+Interestingly, your typical wolf in the wild experiences the same narrative arc: it is really just a biological fact of life that at some point an individual has to grow up and become an independent adult, leaving the family and fighting the battles that reality imposes upon all of us: how are we going to survive in the _real world_, without just sucking off of the resources and protection from our parents?
+
+The convenient (evolutionarily-supplied) surge in hormones and changes in brain development at the time of adolescence provide critical "lubrication" for this dramatic journey into adulthood. People become suddenly more capable of exhibiting risky behavioral choices, particularly under the influence of peers, and start to explore their sexuality. The true intensity and power of the social forces we are all impacted by becomes especially evident during adolescence -- it is like a sudden transition in atmospheric pressure that reveals its otherwise unrecognized all-pervasive presence. 
+
+A critical element of the hero's journey, and adulthood, is tied up with mate choice, because, after all, reproduction is the entire point of evolution. Thus, the actual narrative trajectory of adolescence is strongly tied to sexual and gender identity, which is subject to strong cultural influences. The classic hero's journey tends to tell a traditionally male-centric story. Furthermore, the parents can play strongly varying roles in shaping this narrative arc, with significant impact on the individual's sense of their own identity, versus that imposed on them by their parents or their culture.
+
+In some societies, especially in earlier times, mate choice was strongly constrained (e.g., arranged marriages), and typically the woman's role was particularly strongly constrained. In modern western culture, things are much more egalitarian, but nevertheless differences from the prototypical hero's journey scenario are widespread.
+
+In any case, the end state of this process is clear: one becomes an adult. This means figuring out how you are going to make a living, who you will socialize with, and have sex with. Will you start your own family? All of the details of this are subject to so many cultural constraints and the family environment you happen to be raised in.
+
+This is where the dry scientific term of SES (socioeconomic status) comes in: if you happen to come from a relatively wealthy family, various opportunities and trajectories become available to you, that are much more difficult for people born into poorer circumstances. The "American Dream" is essentially defined as a hero's journey from relatively modest means to financial success, for example.
+
+Thus, a major component of identity is defined in terms of SES: the relative economic and social status of the individual. Studies have shown that, indeed, one's sense of  social standing is all about _relative_ comparisons to relevant social context (e.g., the neighbors and others in your local community). It doesn't matter how much money you make on an absolute scale: what matters is how well off are you relative to this local social environment.
+
+The impacts of systemic social factors such as racism, immigration, colonialism, political instability, persecution, etc are all major forces impacting SES and shaping an individual's identity. In many ways, this consideration of social identity is a luxury of the relatively stable epoch of modern western economic and political circumstances, where upward mobility and a relative loosening of cultural barriers enables individuals to have much of any significant impact on their own destiny.
+
+Identity also goes beyond basic SES, and cuts across many different dimensions. For example, some people develop a strong sense of identity around sports teams that they support. People derive identity from specific activities such as religious affiliation, hobbies, sports participation, outdoor activities, etc. If you start a family, then you take on a major new identity as a _parent_, which often becomes an all-consuming aspect of your identity, much to the dismay of your previous social groups.
+
+Popular TV shows such as _Friends_ portray this continuous process of further identity development into young adulthood, as different possible social identities and affiliations are explored, typically with a strong sexual under-current.
+
+And this is also where [[personality]] factors play out, including the relative need for social interaction and belonging. Some people remain relatively "lone wolf" individuals, while others develop very strong social connections. These social connections and other positive identity factors can be a buffer against [[insecurity]], but as discussed there, the inevitable discounting effects of learning across the brain will erode the impact of anything that remains stable and consistent, as we adapt to our circumstances.
+
+As a result, our brains are constantly keeping us on our toes, pushing us out of our safe zones, and encouraging us to keep learning and changing as we go through life. Erik Erikson outlined eight [life stages](https://en.wikipedia.org/wiki/Erikson%27s_stages_of_psychosocial_development) that a typical person might experience across their lifetime, with each associated with a different kind of challenge and potential accomplishments. Thus, the arc of identity develops across the lifespan.
+
+One overriding challenge in later years is avoiding stagnation and despair, and dealing with major life transitions without the benefit of adolescent hormone surges. For example, people often experience some form of _midlife crisis_ that is comparable to adolescence in many ways, when their kids leave the nest, and that previously-dominant parental identity starts to fade. This often also coincides with the death of their own parents, removing whatever sense of security that might have still been providing.
+
+This is often a period when couples separate, and some kind of new sense of identity is sought. Perhaps, the hero's journey narrative can also be helpful in navigating this second adolescence, as explored in the [Lost in Transition](https://poetry.grey-space.org/lost-in-transition) poem.
+
+Indeed, there is research indicating that adopting a positive, resilient narrative understanding of your life's trajectory can have significant positive psychological benefits ([[@RogersChicasKellyEtAl23]]), so go ahead and be a hero, and enjoy your journey while you can!
+

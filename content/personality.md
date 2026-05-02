@@ -7,6 +7,8 @@ This page attempts to construct a theory of human **personality** based on under
 
 As with Analytical Psychology, one implication of this framework is perhaps a better understanding of the kinds of _processes_ that can be helpful in learning how to better satisfy your own emotional needs, and those with whom you interact. This shared set of emotional needs that is common to most people is perhaps a basis for Jung's concept of the _collective unconscious_, and the goal here is try to turn that more into the collective _consciousness_, where people can be more aware of all these underlying forces shaping your behavior, and thus have the possibility to use the power of the neocortex to adapt (to) their own personalities, and those they interact with.
 
+Also see [[identity]] for the related but distinct role of social forces in driving our own internal need to establish a "place" for ourselves within the broader social context. Personality is about the more biologically-grounded, _subconsious_ forces that drive us to behave in certain ways on a moment-to-moment basis, whereas identity is a broader sense of our place within society, that also shapes behavior, and interacts strongly with personality, but is more intrinsically associated with social groups and a sense of belonging. Also see [[insecurity]], which interacts with both personality and identity.
+
 There are two foundational assumptions, discussed in the next two sections, from which various personality factors can be derived.
 
 ## Integrated networks

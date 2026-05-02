@@ -48,6 +48,8 @@
 
 <p id="Putnam67">Putnam, H. (1967). Psychological Predicates. In W.H. Capitan, & D.D. Merrill (Eds.), <i>Art, mind, and religion</i> (pp. 37–48). University of Pittsburgh Press. </p>
 
+<p id="RogersChicasKellyEtAl23">Rogers, B.A., Chicas, H., Kelly, J.M., Kubin, E., Christian, M.S., Kachanoff, F.J., Berger, J., Puryear, C., McAdams, D.P., & Gray, K. (2023). Seeing your life story as a Hero’s Journey increases meaning in life. <i>Journal of Personality and Social Psychology, 125</i>, 752–778. <a href="http://doi.org/10.1037/pspa0000341"> http://doi.org/10.1037/pspa0000341</a></p>
+
 <p id="RolfsFreyShiEtAl21">Rolfs, Z., Frey, B.L., Shi, X., Kawai, Y., Smith, L.M., & Welham, N.V. (2021). An atlas of protein turnover rates in mouse tissues. <i>Nature Communications, 12</i>, 6778. <a href="https://www.nature.com/articles/s41467-021-26842-3">https://www.nature.com/articles/s41467-021-26842-3</a><a href="http://doi.org/10.1038/s41467-021-26842-3"> http://doi.org/10.1038/s41467-021-26842-3</a></p>
 
 <p id="Shafak11">Shafak, E. (2011). <i>The Forty Rules of Love: A Novel of Rumi. </i> Penguin Books. </p>

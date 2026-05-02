@@ -3,7 +3,7 @@ Categories = ["Brains"]
 bibfile = "ccnlab.json"
 +++
 
-Perhaps the single greatest disease facing humanity is the plague of individual **insecurity** -- i.e., a sense of anxiety or discomfort about your own self and your situation within the world around you. This universal, pervasive feeling is responsible for more subjective suffering, through direct and indirect effects, than any kind of other disease, including cancer or heart disease. This is because it prevents people from truly connecting with each other, and themselves, and living in the present moment, and thus makes people lead significantly less happy and fulfilling lives.
+Perhaps the single greatest disease facing humanity is the plague of individual **insecurity** -- i.e., a sense of anxiety or discomfort about your own self and your situation within the world around you (i.e., your [[identity]]). This universal, pervasive feeling is responsible for more subjective suffering, through direct and indirect effects, than any kind of other disease, including cancer or heart disease. This is because it prevents people from truly connecting with each other, and themselves, and living in the present moment, and thus makes people lead significantly less happy and fulfilling lives.
 
 Everyone experiences feelings of insecurity about themselves, each of us in different ways, at different times. How could it be otherwise? Each person is a fully encapsulated, separate island of [[subjective]] experience, so we only know what we ourselves experience internally. Everything else is an inference based on "looking in from the outside" at other people and their lives.
 
