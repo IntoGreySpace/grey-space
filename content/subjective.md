@@ -16,7 +16,7 @@ I actually agree with Chalmers in this respect, but critically identify the dual
 
 In other words, subjective experience is literally _what it feels like_ to actually be inside my very own individual brain. And no other individual could ever be inside my own brain, because I'm already here, and they're already inside their own brain. And if they are not inside their own brain, they aren't capable of understanding anything like subjective experience in the first place. That is not to say that all manner of physical systems don't have any kind of subjective perspective: indeed every random blob of matter is unique at the bare level of [[physical reality]], with its own spatiotemporal timeline. But as far as we know, some as-yet-not-quite-fully-specified properties of the human brain are required to fully understand and communicate an understanding of something like the nature of subjective experience.
 
-See [[@^JilkOReillyIP]] for a fuller explication of this _perspective dualism_ argument, which builds on earlier discussion by [[@^Nagel74]] and others.
+See [[@^JilkOReilly26]] for a fuller explication of this _perspective dualism_ argument, which builds on earlier discussion by [[@^Nagel74]] and others.
 
 Despite the primacy of subjective experience and knowledge, it is still possible to develop an effective body of [[objective]] knowledge as discussed on that page, and on the [[epistemology]] page.
 

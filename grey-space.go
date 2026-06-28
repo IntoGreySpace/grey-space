@@ -11,7 +11,6 @@ import (
 	"cogentcore.org/core/core"
 	"cogentcore.org/core/icons"
 	"cogentcore.org/core/text/csl"
-	_ "cogentcore.org/core/text/tex" // include this to get math
 	"cogentcore.org/core/tree"
 	_ "cogentcore.org/lab/yaegilab"
 )
@@ -22,7 +21,7 @@ import (
 // Must configure using BetterBibTeX for zotero: https://retorque.re/zotero-better-bibtex/
 // todo: include link for configuring here
 
-//go:generate mdcite -vv -refs ./ccnlab.json -d ./content
+//go:generate mdcite -vv -refs ./ccnlab.json,./kleroterio.json -d ./content
 
 //go:embed content citedrefs.json
 var econtent embed.FS

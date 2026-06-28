@@ -2,15 +2,27 @@
 
 <p id="Bedau97">Bedau, M.A. (1997). Weak Emergence. <i>Noûs, 31</i>, 375–399. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/0029-4624.31.s11.17">https://onlinelibrary.wiley.com/doi/abs/10.1111/0029-4624.31.s11.17</a><a href="http://doi.org/10.1111/0029-4624.31.s11.17"> http://doi.org/10.1111/0029-4624.31.s11.17</a></p>
 
+<p id="Berlin58">Berlin, I. (1958). <i>Two concepts of liberty. </i>document. Google Scholar. Oxford: Clarendon Press, 1958. <a href="https://repository.library.georgetown.edu/handle/10822/713572">https://repository.library.georgetown.edu/handle/10822/713572</a></p>
+
 <p id="BrownMannRyderEtAl20">Brown, T.B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D.M., Wu, J., Winter, C., Hesse, C., Chen, M., Sigler, E., Litwin, M., Gray, S., Chess, B., Clark, J., Berner, C., McCandlish, S., Radford, A., Sutskever, I., & Amodei, D. (2020). Language Models are Few-Shot Learners. <i>arXiv:2005.14165 [cs], <a href="http://arxiv.org/abs/2005.14165">http://arxiv.org/abs/2005.14165</a></i></p>
 
 <p id="CarverWhite94">Carver, C.S., & White, T. (1994). Behavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: The BIS/BAS scales. <i>Journal of Personality and Social Psychology, 67</i>, 319–333. </p>
 
 <p id="Chalmers95">Chalmers, D. (1995). Facing up to the problem of consciousness. <i>Journal of Consciousness Studies, 3(1)</i>, 200–217. </p>
 
+<p id="Churchill47">Churchill, W. (1947). <i>The Worst Form of Government - International Churchill Society. </i>webpage. <a href="https://winstonchurchill.org/resources/quotes/the-worst-form-of-government/">https://winstonchurchill.org/resources/quotes/the-worst-form-of-government/</a></p>
+
+<p id="Dahl08">Dahl, R.A. (2008). <i>Polyarchy: Participation and Opposition. </i> Yale University Press. </p>
+
+<p id="Dahl20">Dahl, R.A. (2020). <i>On Democracy. </i> Yale University Press. </p>
+
 <p id="DehaeneNaccache01">Dehaene, S., & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. <i>Cognition, 79</i>, 1–37. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11164022">http://www.ncbi.nlm.nih.gov/pubmed/11164022</a></p>
 
 <p id="Eysenck67">Eysenck, H.J. (1967). <i>The biological basis of personality. </i> Thomas. </p>
+
+<p id="Fishkin18">Fishkin, J.S. (2018). Random Assemblies for Lawmaking? Prospects and Limits. <i>Politics & Society, 46</i>, 359-379. <a href="https://doi.org/10.1177/0032329218789889">https://doi.org/10.1177/0032329218789889</a><a href="http://doi.org/10.1177/0032329218789889"> http://doi.org/10.1177/0032329218789889</a></p>
+
+<p id="Fishkin25">Fishkin, J.S. (2025). <i>Can Deliberation Cure the Ills of Democracy? </i> OUP Oxford. </p>
 
 <p id="Fleisher22">Fleisher, W. (2022). Understanding, Idealization, and Explainable AI. <i>Episteme, 19</i>, 534–560. <a href="https://www.cambridge.org/core/journals/episteme/article/understanding-idealization-and-explainable-ai/635566D3074E7F300EEAC746BA7249E4">https://www.cambridge.org/core/journals/episteme/article/understanding-idealization-and-explainable-ai/635566D3074E7F300EEAC746BA7249E4</a><a href="http://doi.org/10.1017/epi.2022.39"> http://doi.org/10.1017/epi.2022.39</a></p>
 
@@ -26,6 +38,8 @@
 
 <p id="HopwoodWrightDonnellan11">Hopwood, C., Wright, A., & Donnellan, M. (2011). Evaluating the evidence for the general factor of personality across multiple inventories. <i>Journal of Research in Personality, </i></p>
 
+<p id="JilkOReilly26">Jilk, D.J., & O'Reilly, R.C. (2026). Qualia and Perspective. </p>
+
 <p id="KajoniusJohnson19">Kajonius, P.J., & Johnson, J.A. (2019). Assessing the Structure of the Five Factor Model of Personality (IPIP-NEO-120) in the Public Domain. <i>Europe’s Journal of Psychology, 15</i>, 260–275. <a href="https://ejop.psychopen.eu/index.php/ejop/article/view/1671">https://ejop.psychopen.eu/index.php/ejop/article/view/1671</a><a href="http://doi.org/10.5964/ejop.v15i2.1671"> http://doi.org/10.5964/ejop.v15i2.1671</a></p>
 
 <p id="KochMassiminiBolyEtAl16">Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. <i>Nature Reviews Neuroscience, 17</i>(5), 307–321. <a href="http://www.nature.com/articles/nrn.2016.22">http://www.nature.com/articles/nrn.2016.22</a><a href="http://doi.org/10.1038/nrn.2016.22"> http://doi.org/10.1038/nrn.2016.22</a></p>
@@ -33,6 +47,8 @@
 <p id="Lamme06">Lamme, V.A.F. (2006). Towards a true neural stance on consciousness. <i>Trends in Cognitive Sciences, 10</i>, 494–501. <a href="http://www.cell.com/article/S1364661306002373/abstract">http://www.cell.com/article/S1364661306002373/abstract</a><a href="http://doi.org/10.1016/j.tics.2006.09.001"> http://doi.org/10.1016/j.tics.2006.09.001</a></p>
 
 <p id="Markon09">Markon, K.E. (2009). Hierarchies in the Structure of Personality Traits. <i>Social and Personality Psychology Compass, 3</i>, 812–826. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2009.00213.x">https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2009.00213.x</a><a href="http://doi.org/10.1111/j.1751-9004.2009.00213.x"> http://doi.org/10.1111/j.1751-9004.2009.00213.x</a></p>
+
+<p id="Marr82">Marr, D. (1982). <i>Vision. </i> Freeman. </p>
 
 <p id="Maslow43">Maslow, A.H. (1943). A Theory of Human Motivation. <i>Psychological Review, 50</i>, 370–396. </p>
 
@@ -53,6 +69,8 @@
 <p id="RolfsFreyShiEtAl21">Rolfs, Z., Frey, B.L., Shi, X., Kawai, Y., Smith, L.M., & Welham, N.V. (2021). An atlas of protein turnover rates in mouse tissues. <i>Nature Communications, 12</i>, 6778. <a href="https://www.nature.com/articles/s41467-021-26842-3">https://www.nature.com/articles/s41467-021-26842-3</a><a href="http://doi.org/10.1038/s41467-021-26842-3"> http://doi.org/10.1038/s41467-021-26842-3</a></p>
 
 <p id="Shafak11">Shafak, E. (2011). <i>The Forty Rules of Love: A Novel of Rumi. </i> Penguin Books. </p>
+
+<p id="Shoemaker24">Shoemaker, E. (2024). <i>The Rule of Ordinary People: The Case for a Sortition-Based Democracy without Elections. </i>[thesis]. utoronto.scholaris.ca. <a href="http://hdl.handle.net/1807/140922">http://hdl.handle.net/1807/140922</a></p>
 
 <p id="SlomanFernbach18">Sloman, S., & Fernbach, P. (2018). <i>The Knowledge Illusion: Why We Never Think Alone. </i> Penguin. </p>
 
