@@ -9,7 +9,7 @@ Welcome to **The Grey Space**, a world of thoughts about thoughts (e.g., [[epist
 
 Also see [poetry.grey-space.org](https://poetry.grey-space.org) for poems that provide a more florid, [[subjective]] perspective on many of the same ideas, especially relevant to [[personality]], [[identity]] and [[insecurity]].
 
-So far this is all the work of Randall C. O'Reilly, who otherwise spends his days creating biologically-based computational models of the brain: [compcogneuro.org](https://compcogneuro.org).
+So far this is all the work of [Randall C. O'Reilly](https://randalloreilly.com), who otherwise spends his days creating biologically-based computational models of the brain: [compcogneuro.org](https://compcogneuro.org). And sometimes working on [wavereality.org](https://wavereality.org).
 
 ## Overview
 
